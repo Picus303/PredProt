@@ -1,0 +1,9 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Data
+*.json
+
+# VS Code
+.vscode/
